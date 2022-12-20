@@ -29,7 +29,7 @@ I'm currently working on Penetration Testing and Cloud Services.<br>I'm looking 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WILKLINS&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WILKLINS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random InfoSec Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random CyberSecurity Meme
