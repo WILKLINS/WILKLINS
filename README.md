@@ -32,7 +32,7 @@ I'm currently working on Penetration Testing and Cloud Services.<br>I'm looking 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
+### 😂 Random CyberSecurity Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
