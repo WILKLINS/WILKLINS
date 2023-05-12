@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Penetration Testing and Cloud Services.<br>I'm looking to collaborate on Cloud Security and Technical Writing.<br>I'm looking for help with automation and scripting.<br>I'm currently learning on AWS and Azure.<br>Ask me about Information Security and Formula One.<br>
+I'm currently working on Penetration Testing and Cloud Services.<br>I'm looking to collaborate on Cloud Security and Technical Writing.<br>I'm looking for help with automation and scripting.<br>I'm currently learning on AWS & Azure Security.<br>Ask me about Information Security and Formula One.<br>
 
 
 ## 🌐 Socials:
